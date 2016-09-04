@@ -8,6 +8,7 @@ public class Hit : MonoBehaviour {
     public void OnOver()
     {
         Debug.Log("Hit");
+        Debug.Log("This has no meanings. Just a test for the github for unity.")
     }
 
     public void OnGazeTriggerStart()
